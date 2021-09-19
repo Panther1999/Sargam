@@ -36,7 +36,7 @@ License -> https://github.com/OmegaXking/Sargam/blob/main/LICENSE
 
 - Get UDO USERS from here:  [![Get Sudo Users Id](https://img.shields.io/badge/Sudo__-USERS-red)](https://t.me/MissRose_bot) [massages /id]
 
-- Get Your STRING SESSION from here:  [![GenerateString](https://img.shields.io/badge/Replit.-Generate%20String-yellow)](https://replit.com/@OmegaXking/Sargam?v=1)
+- Get SESSION NAME from here:  [![GenerateString](https://img.shields.io/badge/Replit.-Generate%20String-yellow)](https://replit.com/@OmegaXking/Sargam?v=1)
 
 
 ### Features✨

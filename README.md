@@ -12,7 +12,7 @@ Host your own Teligram Music Bot ⬇️
 
 - [[Sargam_Channel](http://t.me/Sargam_Channel)]
 
-- [Sargam_Group](https://t.me/Sargam_Group)]
+- [[Sargam_Group](https://t.me/Sargam_Group)]
 
 **Sargum**
 

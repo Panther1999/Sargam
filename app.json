@@ -23,7 +23,6 @@
     "START_IMG": {
       "description": "Telegraph Link Of An Image",
       "required": false
-      "value": "https://telegra.ph/file/4af65196bd17d1d05bc33.png"
     },
     "API_ID": {
       "description": "App ID from my.telegram.org/apps"

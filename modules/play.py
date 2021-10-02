@@ -464,8 +464,8 @@ async def play(_, message: Message):
     await lel.edit("**__Processing Your Song__**")
     ydl_opts = {"format": "bestaudio/best"}
     try:
-        results = webbrowser.open('https://gaana.com/search/'+query, max_results=1).to_dict()
-        url = f"https://gaana.com{results[0]['url_suffix']}"
+        results = webbrowser.open('https://gaana.com/search/'+query, max_results=5).to_dict()
+        url = f"https://gaana.com/search/{results[0]['url_suffix']}"
         #print(results)
         title = results[0]["title"][:40]       
         thumbnail = results[0]["thumbnails"][0]
@@ -473,8 +473,7 @@ async def play(_, message: Message):
         thumb = requests.get(thumbnail, allow_redirects=True)
         open(thumb_name, 'wb').write(thumb.content)
         duration = results[0]["duration"]
-        url_suffix = results[0]["url_suffix"]
-        views = results[0]["views"]
+        url_suffix = results[0]["url_suffix
 
     except Exception as e:
         await lel.edit("Song not found.Try another song or maybe spell it properly.")

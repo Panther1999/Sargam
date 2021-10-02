@@ -6,7 +6,7 @@ Host your own Teligram Music Bot ⬇️
   </p>
  <h3>Deploy to Heroku click the blow button ⬇️ </h>
  
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/OmegaXking/Sargam">
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Panther1999/Sargam">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"width="200" height="50">
   </a></p>
 
